@@ -1,5 +1,5 @@
-# maestria-grupo4
-## integrantes
+# Maestria-grupo4
+## Integrantes
 - René Polo
 - Claudia Alfaro
 - Edson Mollericona
